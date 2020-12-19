@@ -1,5 +1,6 @@
 # InduWAN例程
-
+![webserver](https://github.com/Zero-Robot/InduWAN/blob/main/web.PNG)
+![框架](https://github.com/Zero-Robot/InduWAN/blob/main/框架.PNG)
 ## 简介
 
 本例程主要功能是使用ART-PI和自制隔离通信扩展板实现数字焊机与工业机器人的可靠通信。
