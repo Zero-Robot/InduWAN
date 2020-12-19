@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/iot/webnet", 
+  "ver": "v2.0.2", 
+  "name": "WEBNET"
+ }, 
+ {
+  "path": "/packages/iot/libmodbus", 
+  "ver": "latest", 
+  "name": "LIBMODBUS"
+ }, 
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "v1.2.0", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v0.5.0", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/system/littlefs", 
+  "ver": "v2.0.5", 
+  "name": "LITTLEFS"
+ }
+]
